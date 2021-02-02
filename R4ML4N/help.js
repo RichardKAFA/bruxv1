@@ -108,11 +108,11 @@ const help = (prefix) => {
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⟪ CRIADO POR BY *BRUXINHO MODS* ⟫
+┃⟪ CRIADO POR BY *廴ႮℭቾԲΣℜ MODS* ⟫
 ┣━━━━━━━━━━━━━━━━━━━━┓
 
              ╲    ╱    ● ᏴϴͲ●ᎷᎬΝႮ●
-       ╱▔▔▔▔▔╲       Autor    : ARR157 BOT
+       ╱▔▔▔▔▔╲       Autor    : 廴ႮℭቾԲΣℜ MODS
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
 ┃┃┃┈┈┈┈┈┈┃┃┃    
