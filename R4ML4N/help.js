@@ -1,16 +1,16 @@
 const help = (prefix) => {
-	return `🔰---[ *MENU ARR157-BOT* ]---🔰
+	return `🔰---[ *MENU 廴ႮℭቾԲΣℜ* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ PROPRIETÁRIO : *廴ႮℭቾԲΣℜ*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
-┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
-┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
+┃⊱❥ número do meu criador:wa.me/+5519997767519
+┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCXmvKywHhTDeMh6ISmayY_g
+┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/EhqAcySEe5f80GcwpJ8eCm
 ┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
